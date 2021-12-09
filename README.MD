@@ -7,7 +7,7 @@
 
 >> <h3> Solution Architecture </h3>
 
-![delta](img/drawn.png)
+![delta](img/draw.png)
 
 
 
